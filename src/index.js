@@ -1,9 +1,9 @@
 import React from 'react';
 import { render } from 'react-dom';
 
-import Table from './components/Table';
+import App from './App';
 
 render(
-  <Table />,
+  <App />,
   document.getElementById('root')
 );
