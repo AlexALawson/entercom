@@ -1,9 +1,9 @@
 import React from 'react';
 import { render } from 'react-dom';
 
-import Temp from './components/Temp';
+import Table from './components/Table';
 
 render(
-  <Temp />,
+  <Table />,
   document.getElementById('root')
 );
